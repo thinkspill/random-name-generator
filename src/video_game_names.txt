@@ -5,7 +5,6 @@ Action
 Advanced^Advance
 Adventures of the^Adventure
 Aero
-African^in Africa
 Alcoholic
 Alien
 Allied
@@ -27,18 +26,15 @@ Aquatic
 Arcane
 Armored
 Art of
-Asian
 Astral
 Attack of the^Attack
 Atomic^Nuclear
-Australian
 Awesome
 Barbie's
 Battle^Battleship|Battalion
 Battlefield:^Battle|Battleship|Battalion
 Beautiful^Beautician
 Bewildering
-Biblical
 Big^Big Game Hunter
 Big Bird's^Big Game Hunter
 Big-Time^Big Game Hunter
@@ -51,27 +47,19 @@ Blazing
 Bling Bling
 Blissful
 Blocky
-Bloody^Blood|Bloodbath|of the Blood God
 Bonk's
 Boring
 Bouncin'
 Brain-Damaged
 British
 Britney Spears'
-BudgetSoft Presents:
 Caesar's
-Canadian
 Cantankerous
-Caribbean
-Catholic
 Celebrity
-Celtic
 Charlie Brown's
 Children of the
 Chillin'
-Chinese
 Chocolate
-Christian
 Claustrophobic
 College
 Colonial
@@ -99,7 +87,6 @@ Deadly^Death|Deathmatch|of Death|of the Dead
 Death-Defying^Death|Deathmatch|of Death|of the Dead
 Deep Space^of the Deep
 Def Jam
-Demonic
 Depressing
 Deranged
 Derek Smart's
@@ -113,12 +100,9 @@ Double
 Downtown
 Dr.
 Dracula's
-Drug-Induced
-Drunken
 Duke Nukem:
 Dwarven^Dwarf|Gnome|Midget
 Dynamite
-Ebony
 Eco-Friendly
 Educational
 Elderly
@@ -131,10 +115,8 @@ Endless
 Enormous
 Enraged
 Epic
-Erotic
 Escape from the
 Eternal
-European
 Everybody Hates the
 Everybody Loves the
 Exciting
@@ -159,7 +141,6 @@ Flying
 Forbidden
 Forgotten
 Frankenstein's
-French
 Frisky
 Fruity
 Full Metal
@@ -169,12 +150,10 @@ Future
 Galactic
 Generic
 Geriatric
-German
 Ghetto
 Giant
 Glowing
 Go Go
-God of
 Golden
 Gothic^Goth
 Grand
@@ -193,13 +172,10 @@ Heroic^Hero|Heroes
 Hidden
 Hideous
 High-Speed^Speed
-Hillbilly
 Hindu
 Hip-Hop^Hippo
 History of the
-Hitler's^Nazi
 Ho-Hum
-Holy
 Horrifying
 Hyper
 Imperial
@@ -209,10 +185,8 @@ In Search of the
 In the Lost Kingdom of
 In Your Face
 Inappropriate
-Inbred
 Incomprehensible
 Incredible
-Indian
 Indiana Jones and the
 Inept
 Infinite
@@ -226,18 +200,12 @@ International
 Internet
 Interstellar
 Invisible
-Irish
 Iron
 Irresistible
 Irritating
-Islamic
-Italian
 It's a Mad, Mad^Madness
 Jackie Chan's
-Jamaican
-Japanese
 Jedi
-Jewish
 Johnny Turbo's
 John Romero's
 Kabuki
@@ -252,7 +220,6 @@ Kosher
 Kung-fu
 Jack Thompson's
 Lair of the
-Latino
 Lazy
 Legacy of
 Legend of^Legend|Legends
@@ -288,11 +255,9 @@ Mega
 Mega Man's
 Merciless
 Metal
-Mexican
 Michael Jackson's
 Mickey's
 Micro
-Middle-Eastern^in the Middle East
 Mighty
 Mind-Bending
 Miniature^Dwarf|Gnome|Midget
@@ -300,7 +265,6 @@ Miracle
 Monster^Monster Truck
 Monty Python's
 Morbid
-Morbidly Obese
 Mr.
 MTV's
 Muppet
@@ -315,10 +279,6 @@ Mystical^of Mystery
 Mythical
 Narcoleptic
 Nasty
-National Lampoon's
-Naughty
-NBA
-NCAA
 Nerf
 Neo
 Neon
@@ -331,15 +291,11 @@ Ninja
 No One Can Stop the
 Nostalgic
 Nuclear^Atomic
-Nudist
 Obsessive-Compulsive
-Occult
 Olympic
 Omega
 Orbital
-Pagan
 Panzer
-Papal
 Paranoid
 Pathetic
 Peaceful
@@ -369,10 +325,8 @@ Real
 Red Hot
 Regal
 Relentless
-Religious
 Remote
 Renegade
-Retarded
 Retro
 Return of^Returns|Strikes Again|Strikes Back
 Return of the^Returns|Strikes Again|Strikes Back
@@ -389,20 +343,14 @@ Romantic
 Royal
 Rural
 Rushing^Rush
-Russian
 Samba de
 Samurai
-Satan's
 Savage
 Save Yourself from the
-Scandinavian
 Scooby Doo and the
-Scottish
 Screaming
 Search for the
 Secret of the
-Sensual^Sex
-Sexy^Sex
 Shadow of the^Shadow
 Shady
 Shameful
@@ -437,7 +385,6 @@ Subatomic
 Subterranean^Underground|Underworld
 Summer
 Super
-Super Sexy^Sex|Superstar
 Supreme
 Surprise
 Tactical^Tactics
@@ -464,14 +411,12 @@ The Simpsons'
 The Sims:
 The Six Million Dollar
 Third-World
-Throbbing
 Tiger Woods'
 Tiny^Midget
 Tom Clancy's
 Tony Hawk's
 Topsy-Turvy
 Toxic
-Transvestite
 Trendy
 Tribal
 Tropical
@@ -488,7 +433,6 @@ Undercover^Under Fire|Underwear|Underground|Underworld
 Underground^Under Fire|Underwear|Underground|Underworld
 Underwater^Under Fire|Underwear|Underground|Underworld
 Unforgettable
-Unholy
 Unpleasant
 Unreal
 Unremarkable
@@ -505,7 +449,6 @@ Wandering
 War of the^Warfare|Warrior|Wars|- Total War
 We Love
 Weary
-Wild^Gone Wild
 Wonderous
 Wooden
 World^World Cup|World Tour
@@ -559,14 +502,12 @@ Bingo
 Biplane
 Blade
 Blimp
-Blood^Bloodbath|of the Blood God
 BMX
 Bobsled
 Bomb
 Bomberman
 Bong
 Bongo
-Booty
 Bow Hunter^Hunt|Hunter
 Bowling^Baseball|Basketball|Boxing|Football|Paintbrawl|Pinball|Polo
 Boxing^Baseball|Basketball|Boxing|Football|Paintbrawl|Pinball|Polo
@@ -577,7 +518,6 @@ Buddhist
 Bungie
 Burger
 Business
-Cannibal
 Car
 Cardboard
 Carnival
@@ -622,7 +562,6 @@ Dog
 Donkey
 Dragon
 Driving
-Drug-Dealing
 Duck
 Dungeon
 Dwarf
@@ -635,7 +574,6 @@ Fencing
 Fighter^Fight|Fight Club
 Fire
 Fishing^Baseball|Basketball|Boxing|Football|Paintbrawl|Pinball|Polo
-Flatulence
 Florist
 Football^Baseball|Basketball|Boxing|Football|Paintbrawl|Pinball|Polo
 Forklift
@@ -646,7 +584,6 @@ Fun Noodle
 Funk
 Furry
 Ghost
-Gimp
 Gnome
 Go-Kart
 Goblin
@@ -677,7 +614,6 @@ Hovercraft
 Horse Racing^Baseball|Basketball|Boxing|Football|Paintbrawl|Pinball|Polo
 Ice
 Ice Cream
-Indian
 Insect
 Internet
 Jackhammer
@@ -710,10 +646,8 @@ Lowrider
 Mafia
 Magic^of Magic|of Might and Magic
 Mahjong
-Makeout
 Makeover
 Mall
-Manlove
 Matador
 Math
 Maze
@@ -735,11 +669,9 @@ Mushroom
 Music^DJ
 Mutant
 NASCAR
-Nazi
 Night^Knights|Nightmare
 Ninja
 Nuclear
-Nudist
 Octopus
 Office
 Ostrich
@@ -759,7 +691,6 @@ Pokemon
 Police
 Polka
 Pony
-Porn
 Princess
 Prison
 Programming
@@ -786,7 +717,6 @@ Sandwich
 Scooter
 Scorched Earth
 Sewer
-Sex
 Shadow
 Shark
 Shaving
@@ -809,7 +739,6 @@ Spork
 Square Dancing^Dance Mix|Dance Party|Dancers
 Squirrel
 Stapler
-STD
 Stick
 Stunt
 Submarine
@@ -823,7 +752,6 @@ Sword
 Tank
 Techno
 Tennis
-Terrorist
 Tetris
 Theme Park^Park
 Thief
@@ -832,7 +760,6 @@ Toon
 Trailer Park^Park
 Train
 Trampoline
-Transvestite
 Tricycle
 Turtle
 Typing
@@ -894,10 +821,8 @@ Assassins
 Assault
 at the Olympics
 Attack
-Babies
 Bandit
 Bandits
-Bastards
 Battle
 Battalion
 Base
@@ -1010,7 +935,6 @@ Gaiden
 Gang
 Girl
 Gold
-Gone Wild
 Gladiator
 Groove
 GT
@@ -1030,7 +954,6 @@ Hunter
 II
 III
 Ignition
-in Africa
 in Busytown
 in Crazyland
 in Middle-Earth
@@ -1041,7 +964,6 @@ in the Dark
 in the Desert
 in the Hood
 in the Magic Kingdom
-in the Middle East
 in the Outback
 in the Salad Kingdom
 in the Sky
@@ -1099,11 +1021,8 @@ of Love
 of Magic
 of Might and Magic
 of Mystery
-of the Blood God
 of the Damned
-of the Dead
 of the Deep
-of the Third Reich
 on the Oregon Trail
 Offensive
 Omega
@@ -1128,7 +1047,6 @@ Park
 Party
 Patrol
 Phonics
-Pimps
 Pinball
 Pioneer
 Planet
@@ -1221,18 +1139,14 @@ Task Force
 Temple
 Terror
 Thieves
-- The Card Game
 - The Dark Project
 - The Gathering Storm
-- The Lost Levels
-- The Movie
 - The Next Generation
 - The Quickening
 - The Resistance
 - The Revenge
 Through Time
 Throwdown
-- Total War
 Tournament
 Trader
 Train
@@ -1254,8 +1168,6 @@ Unleashed
 Uprising
 Vengeance
 Voyage
-vs. Capcom
-vs. Street Fighter
 vs. The Space Mutants
 Warfare
 Warrior
@@ -1266,9 +1178,6 @@ World
 World Cup
 World Tour
 Wranglers
-X
-XP
-XXX
 X-treme
 Yoga
 Z
